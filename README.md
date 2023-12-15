@@ -40,10 +40,10 @@ It contains real MySql queries, data from js files (REST API), and script files.
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### My projects
-- Discord Bot with mongoDB \ MySql Databases on NodeJs
-- Chrome extension MV3 "Epicenter plus SalesDrive"
-- REST API Connect SalesDrive with Epicenter [Link to repo](https://github.com/Zerotenmerth/Connect_Epicenter-SalesDrive)
-- Notification Twitch messages extension Chrome [Link to repo](https://github.com/Zerotenmerth/twitch-noti)
-- Shikimori Friend Rating extension Chrome
-- MangaDownloader for MangaLib [Link to repo](https://github.com/Zerotenmerth/mangaDW-full-ver)
+- Discord Bot with mongoDB \ MySql Databases on (**NodeJs**)
+- *Epicenter plus SalesDrive* (**Chrome extension MV3**)
+- **REST API** *Connect SalesDrive with Epicenter* (**NodeJs**)[Link to repo](https://github.com/Zerotenmerth/Connect_Epicenter-SalesDrive)
+- *Notification Twitch* messages (**extension Chrome**) [Link to repo](https://github.com/Zerotenmerth/twitch-noti)
+- Shikimori Friend Rating (**extension Chrome**)
+- MangaDownloader for MangaLib (**Script**) [Link to repo](https://github.com/Zerotenmerth/mangaDW-full-ver)
 
