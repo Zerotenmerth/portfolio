@@ -19,8 +19,9 @@ Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&l
 [Link into CV (google drive)](https://docs.google.com/document/d/1gWzrDO250Z5HTY4ZJWzJXHGJj7kMPYAQ/edit?usp=drive_link&ouid=118411061735689492258&rtpof=true&sd=true)
 
 ### BackEnd side knowledge:
-- C# (my first language)
-- Javascript (strong)
-- html \ css (pre-middle)
-- MySql (strong)
-- MongoDb \ Firebase (middle)
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) (my first language)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) (strong)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) (pre-middle)
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) (strong)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) (middle)
