@@ -6,7 +6,7 @@ Graduated with a bachelor's and master's degree in Information Technology. Curre
 
 Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zerocd6@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/Zerotenmerth)
 
-### About the repository
+### About the repository:
 It contains real MySql queries, data from js files (REST API), and script files. Be sure to check out the Screenshots folder! It includes work with Postman, Linux (bash), additional information about extensions Chrome.
 
 ### QA side:
@@ -39,11 +39,11 @@ It contains real MySql queries, data from js files (REST API), and script files.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### My projects
-- Discord Bot with mongoDB \ MySql Databases on (**NodeJs**)
-- *Epicenter plus SalesDrive* (**Chrome extension MV3**)
-- **REST API** *Connect SalesDrive with Epicenter* (**NodeJs**)[Link to repo](https://github.com/Zerotenmerth/Connect_Epicenter-SalesDrive)
-- *Notification Twitch* messages (**extension Chrome**) [Link to repo](https://github.com/Zerotenmerth/twitch-noti)
-- Shikimori Friend Rating (**extension Chrome**)
-- MangaDownloader for MangaLib (**Script**) [Link to repo](https://github.com/Zerotenmerth/mangaDW-full-ver)
+### My projects:
+- [Discord](https://discord.com/) Bot with mongoDB \ MySql Databases on (**NodeJs**)
+- *[Epicenter](https://epicentrk.ua/) plus [SalesDrive](https://salesdrive.com.ua/)* (**Chrome extension MV3**)
+- **REST API** *Connect [SalesDrive](https://salesdrive.com.ua/) with [Epicenter](https://epicentrk.ua/)* (**NodeJs**) [Link to repo](https://github.com/Zerotenmerth/Connect_Epicenter-SalesDrive)
+- *Notification [Twitch](twitch.tv)* messages (**extension Chrome**) [Link to repo](https://github.com/Zerotenmerth/twitch-noti)
+- [Shikimori](https://shikimori.one/) Friend Rating (**extension Chrome**)
+- MangaDownloader for [MangaLib](https://mangalib.me/) (**Script**) [Link to repo](https://github.com/Zerotenmerth/mangaDW-full-ver)
 
