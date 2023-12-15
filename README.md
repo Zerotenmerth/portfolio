@@ -6,7 +6,9 @@ Graduated with a bachelor's and master's degree in Information Technology. Curre
 
 Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zerocd6@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/Zerotenmerth)
 
- 
+### About the repository
+It contains real MySql queries, data from js files (REST API), and script files. Be sure to check out the Screenshots folder! It includes work with Postman, Linux (bash), additional information about extensions Chrome.
+
 ### QA side:
 - <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/> Check data in DevTools Chrome \ Mozilla
 - <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/> Also have experience in SoapUI (but better use Postman even for WSDL)
@@ -28,9 +30,20 @@ Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&l
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) (pre-middle)
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) (strong)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) development environment
 
 ### Work with or Know:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) (middle) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### My projects
+- Discord Bot with mongoDB \ MySql Databases on NodeJs
+- Chrome extension MV3 "Epicenter plus SalesDrive"
+- REST API Connect SalesDrive with Epicenter [Link to repo](https://github.com/Zerotenmerth/Connect_Epicenter-SalesDrive)
+- Notification Twitch messages extension Chrome [Link to repo](https://github.com/Zerotenmerth/twitch-noti)
+- Shikimori Friend Rating extension Chrome
+- MangaDownloader for MangaLib [Link to repo](https://github.com/Zerotenmerth/mangaDW-full-ver)
+
