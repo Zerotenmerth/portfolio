@@ -43,7 +43,7 @@ It contains real MySql queries, data from js files (REST API), and script files.
 - [Discord](https://discord.com/) Bot with mongoDB \ MySql Databases on (**NodeJs**)
 - *[Epicenter](https://epicentrk.ua/) plus [SalesDrive](https://salesdrive.com.ua/)* (**Chrome extension MV3**)
 - **REST API** *Connect [SalesDrive](https://salesdrive.com.ua/) with [Epicenter](https://epicentrk.ua/)* (**NodeJs**) [Link to repo](https://github.com/Zerotenmerth/Connect_Epicenter-SalesDrive)
-- *Notification [Twitch](twitch.tv)* messages (**extension Chrome**) [Link to repo](https://github.com/Zerotenmerth/twitch-noti)
+- *Notification [Twitch](https://twitch.tv)* messages (**extension Chrome**) [Link to repo](https://github.com/Zerotenmerth/twitch-noti)
 - [Shikimori](https://shikimori.one/) Friend Rating (**extension Chrome**)
 - MangaDownloader for [MangaLib](https://mangalib.me/) (**Script**) [Link to repo](https://github.com/Zerotenmerth/mangaDW-full-ver)
 
